@@ -24,5 +24,6 @@ To view the CV, simply open the `Single-Page_CV.html` file in your web browser.
 ## Author
 
 - **GitHub**: lakshay1341
+- https://roadmap.sh/projects/single-page-cv
 
 Feel free to contribute or provide feedback to help improve this project!
